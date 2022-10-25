@@ -1,0 +1,41 @@
+body {
+    background-color: lightgray;
+    font-family: Arial, Helvetica, sans-serif
+}
+
+h1 {
+    text-align: center;
+    color: midnightblue;
+    font-weight: 900;
+}
+
+h2 {
+    text-align: center;
+    color: cornflowerblue;
+    font-weight: bold;
+}
+
+table {
+    border: 3px solid midnightblue;
+    width: auto;
+    margin-left: auto;
+    margin-right: auto;
+    
+}
+
+thead {
+    background-color: cornflowerblue;
+    
+}
+
+td {
+    border-top: 1px groove cornflowerblue;
+    border-right: 1px groove cornflowerblue;
+}
+
+.code {
+    background-color: black;
+    color: white;
+    font-family: monospace;
+}
+
